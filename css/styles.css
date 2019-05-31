@@ -1,16 +1,18 @@
-p {
+h1{
   color: darkblue;
   text-align: center;
+}
+.text {
+  text-align: left;
+  text-color: darkblue;
 }
 
-h1 {
-  color: darkblue;
+.listheader {
   text-align: center;
-}
-ul {
   color: darkblue;
 }
 
-.dairy {
+h3 {
   text-align: center;
+  color: darkblue;
 }
