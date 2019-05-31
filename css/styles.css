@@ -1,4 +1,16 @@
 p {
-  color: #05193a;
+  color: darkblue;
+  text-align: center;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+ul {
+  color: darkblue;
+}
+
+.dairy {
   text-align: center;
 }
