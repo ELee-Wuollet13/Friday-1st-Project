@@ -4,7 +4,10 @@ My portfolio for week one of Epicodus, Friday may 31st 2019
 
 By Everett Lee-Wuollet
 
-This application is a website portfolio detailing my experiences in the first three days of Epicodus. It includes a list of technologies covered sorted by day (within collums), a picture of me, and my feelings on the program so far.
+This application is a website portfolio detailing my experiences in the first three days of Epicodus. It includes a list of technologies covered sorted by day (within columns), a picture of me, and my feelings on the program so far.
+
+To access via GitHub Pages click here https://github.com/ELee-Wuollet13/Friday-1st-Project/tree/gh-pages
+
 
 Setup/installation Requirements:
 
